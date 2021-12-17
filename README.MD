@@ -6,9 +6,9 @@ This repo implements the following classical CV algorithms from scratch. Each of
 - [x] Photometric Stereo
 - [x] Edge Detection
 - [x] Corner Detection
-- [] Epipolar Rectification
-- [] Feature Matching
-- [] Fundamental Matrix Estimation
+- [ ] Epipolar Rectification
+- [ ] Feature Matching
+- [ ] Fundamental Matrix Estimation
 
 ----------    
 Majority of this work was done during Computer Vision course @UCSanDiego 
